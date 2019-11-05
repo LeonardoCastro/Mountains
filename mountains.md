@@ -11,4 +11,3 @@ _but_, what about mountains volcanoes in the *UK*
 
 * Snowdon
 * Scafell Pike
-* Whatever
