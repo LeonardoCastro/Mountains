@@ -5,6 +5,7 @@ This is a text file with content about mountains and volcanoes
 
 * Popocatepetl
 * Iztaccihuatl
+* Malintzin
 
 _but_, what about mountains volcanoes in the *UK*
 
