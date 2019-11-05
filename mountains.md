@@ -9,3 +9,4 @@ This is a text file with content about mountains and volcanoes
 _but_, what about mountains volcanoes in the *UK*
 
 * Snowdon
+* Scafell Pike
